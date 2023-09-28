@@ -1,0 +1,7 @@
+DETALLES DEL LIBRO 1
+Codigo:20
+Titulo:poemas
+Autor:joel
+Categoria:letras
+Cantidad:0
+Precio $:50
